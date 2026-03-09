@@ -37,7 +37,7 @@ console.log("esercizio 2", myName)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let sum = 12 + 20
+const sum = 12 + 20
 console.log("esercizio 3", sum)
 
 /* ESERCIZIO 4
@@ -45,9 +45,9 @@ console.log("esercizio 3", sum)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let x = 12
-console.log("esercizio 4",x)
-let y = 4
+const x = 12
+console.log("esercizio 4", x)
+const y = 4
 console.log("esercizio 4 bis", x * y)
 
 /* ESERCIZIO 5
@@ -69,7 +69,7 @@ const year = 1998
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let subtraction = 4 - x
+const subtraction = 4 - x
 console.log("esercizio 6", subtraction)
 
 /* ESERCIZIO 7
@@ -79,7 +79,7 @@ console.log("esercizio 6", subtraction)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let name1 = "john"
+const name1 = "john"
 let name2 = "John"
 console.log("esercizio7", name1 !== name2) //true
 //EXTRA:
