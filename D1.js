@@ -46,7 +46,7 @@ console.log("esercizio 3", sum)
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 let x = 12
-console.log("esercizio 4")
+console.log("esercizio 4",x)
 let y = 4
 console.log("esercizio 4 bis", x * y)
 
